@@ -1,0 +1,16 @@
+{
+    "model_config": [
+        {
+            "model_name": "deepseek-chat",
+            "svc_name": "deepseek-r1-svc",
+            "svc_port": 9002,
+            "api_key": "abc123"
+        },
+        {
+            "model_name": "deepseek-reasoner",
+            "svc_name": "deepseek-r1",
+            "svc_port": 9002,
+            "api_key": "abc12345"
+        }
+    ]
+}

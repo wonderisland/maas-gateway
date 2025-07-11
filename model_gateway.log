@@ -1,0 +1,705 @@
+2025-07-11 10:48:11,439 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:11,439 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.000s
+2025-07-11 10:48:11,935 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:11,937 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.002s
+2025-07-11 10:48:12,903 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:12,904 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.001s
+2025-07-11 10:48:56,418 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:56,419 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.000s
+2025-07-11 10:48:56,897 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:56,897 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.000s
+2025-07-11 10:48:57,816 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:48:57,817 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.001s
+2025-07-11 10:49:49,176 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:49:49,177 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.001s
+2025-07-11 10:49:49,679 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:49:49,680 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.001s
+2025-07-11 10:49:50,525 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:49:50,526 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.001s
+2025-07-11 10:51:47,378 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:51:47,379 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:51:47,380 - maas_gateway - INFO - request headers: Headers({'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'})
+2025-07-11 10:51:47,380 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.002s
+2025-07-11 10:51:47,885 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:51:47,886 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:51:47,887 - maas_gateway - INFO - request headers: Headers({'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'})
+2025-07-11 10:51:47,887 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.002s
+2025-07-11 10:51:48,717 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:51:48,718 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:51:48,718 - maas_gateway - INFO - request headers: Headers({'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'})
+2025-07-11 10:51:48,719 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.002s
+2025-07-11 10:54:56,130 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:54:56,131 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:54:56,131 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:54:56,274 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.144s
+2025-07-11 10:54:56,729 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:54:56,730 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:54:56,730 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:54:56,814 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.084s
+2025-07-11 10:54:57,783 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:54:57,783 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:54:57,784 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:54:57,877 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.095s
+2025-07-11 10:57:42,897 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:57:42,898 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:57:42,898 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:57:43,069 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.173s
+2025-07-11 10:57:43,559 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:57:43,560 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:57:43,560 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:57:43,700 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.142s
+2025-07-11 10:57:44,670 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:57:44,671 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:57:44,671 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:57:44,834 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.164s
+2025-07-11 10:59:48,774 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:59:48,775 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:59:48,775 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:59:48,963 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.189s
+2025-07-11 10:59:49,450 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:59:49,451 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:59:49,451 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:59:49,600 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.150s
+2025-07-11 10:59:50,410 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 10:59:50,411 - maas_gateway - INFO - handle request: chat/completions
+2025-07-11 10:59:50,411 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 10:59:50,552 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.142s
+2025-07-11 11:00:48,147 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:00:48,148 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:00:48,148 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:00:48,319 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.172s
+2025-07-11 11:00:48,747 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:00:48,748 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:00:48,748 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:00:48,897 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.149s
+2025-07-11 11:00:49,876 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:00:49,877 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:00:49,877 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:00:50,029 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.153s
+2025-07-11 11:01:40,768 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:01:40,769 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:01:40,769 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:01:40,987 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.219s
+2025-07-11 11:01:41,412 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:01:41,412 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:01:41,412 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:01:41,556 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.144s
+2025-07-11 11:01:42,515 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:01:42,516 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:01:42,516 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:01:42,758 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.243s
+2025-07-11 11:02:16,280 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:16,281 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:16,281 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:16,438 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.158s
+2025-07-11 11:02:16,868 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:16,869 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:16,869 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:17,018 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.149s
+2025-07-11 11:02:18,001 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:18,001 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:18,001 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:18,151 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.151s
+2025-07-11 11:02:45,117 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:45,119 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:45,119 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:45,358 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.241s
+2025-07-11 11:02:45,800 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:45,801 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:45,801 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:45,978 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.178s
+2025-07-11 11:02:46,821 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:02:46,822 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:02:46,822 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:02:46,983 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.163s
+2025-07-11 11:10:07,893 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:10:07,894 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:10:07,895 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:10:08,082 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.189s
+2025-07-11 11:10:08,492 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:10:08,493 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:10:08,494 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:10:08,663 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.170s
+2025-07-11 11:10:09,593 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:10:09,593 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:10:09,594 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:10:09,744 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.152s
+2025-07-11 11:14:46,648 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:14:46,648 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:14:46,649 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:14:46,650 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:14:46,650 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:14:46,818 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.169s
+2025-07-11 11:16:28,969 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:16:28,969 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:16:28,969 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:16:28,969 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:16:28,970 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:16:28,978 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, json=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:16:28,978 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.009s
+2025-07-11 11:16:29,386 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:16:29,387 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:16:29,388 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:16:29,389 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:16:29,389 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:16:29,402 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, json=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:16:29,403 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:16:30,278 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:16:30,278 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:16:30,279 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:16:30,279 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:16:30,280 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:16:30,291 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, json=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:16:30,292 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.013s
+2025-07-11 11:17:12,977 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:17:12,977 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:17:12,977 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:17:12,978 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:17:12,978 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:17:12,990 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, data=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:17:12,991 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.014s
+2025-07-11 11:17:13,455 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:17:13,456 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:17:13,456 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:17:13,457 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:17:13,457 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:17:13,470 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, data=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:17:13,471 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:17:14,354 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:17:14,354 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:17:14,355 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:17:14,355 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:17:14,355 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:17:14,369 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    async with session.post(svc_addr, data=json.dumps(request_data), headers=headers) as response:
+                                           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:17:14,370 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:17:59,105 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:17:59,105 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:17:59,106 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:17:59,107 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:17:59,107 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:17:59,118 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:17:59,119 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.013s
+2025-07-11 11:17:59,612 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:17:59,613 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:17:59,613 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:17:59,614 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:17:59,614 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:17:59,627 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:17:59,628 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:18:00,507 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:18:00,508 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:18:00,508 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:18:00,509 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:18:00,509 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:18:00,523 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:18:00,523 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:18:14,736 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:18:14,737 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:18:14,737 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:18:14,738 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:18:14,738 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:18:14,749 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:18:14,750 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.013s
+2025-07-11 11:18:15,256 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:18:15,257 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:18:15,257 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:18:15,258 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:18:15,258 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:18:15,272 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:18:15,273 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:18:16,257 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:18:16,257 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:18:16,258 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:18:16,259 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:18:16,259 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:18:16,273 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    body = json.dumps(request_data)
+           ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:18:16,273 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:20:42,184 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:20:42,185 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:20:42,185 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:20:42,186 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:20:42,186 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:20:42,384 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.198s
+2025-07-11 11:21:50,520 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:21:50,520 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:21:50,521 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:21:50,521 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:21:50,521 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:21:50,532 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:21:50,532 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.012s
+2025-07-11 11:21:50,938 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:21:50,938 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:21:50,939 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:21:50,939 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:21:50,939 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:21:50,952 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:21:50,953 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:21:51,846 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:21:51,847 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:21:51,847 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:21:51,848 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:21:51,848 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:21:51,862 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:21:51,863 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.016s
+2025-07-11 11:25:31,044 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:25:31,044 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:25:31,045 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:25:31,046 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:25:31,046 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:25:31,059 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:25:31,060 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:25:31,555 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:25:31,556 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:25:31,556 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:25:31,557 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:25:31,557 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:25:31,571 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:25:31,572 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.016s
+2025-07-11 11:25:32,563 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:25:32,563 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:25:32,564 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:25:32,564 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:25:32,564 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:25:32,578 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:25:32,578 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.015s
+2025-07-11 11:26:44,492 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:26:44,493 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:26:44,493 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:26:44,494 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:26:44,494 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:26:44,506 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:26:44,506 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.013s
+2025-07-11 11:26:45,007 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:26:45,007 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:26:45,007 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:26:45,008 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:26:45,008 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:26:45,015 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:26:45,015 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.008s
+2025-07-11 11:26:45,907 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:26:45,907 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:26:45,907 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:26:45,907 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:26:45,907 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:26:45,914 - maas_gateway - ERROR - Unhandled exception in dispatch: cannot access local variable 'json' where it is not associated with a value
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 133, in handle_block_request
+    print(f"body: {json.dumps(request_data)}")
+                   ^^^^
+UnboundLocalError: cannot access local variable 'json' where it is not associated with a value
+2025-07-11 11:26:45,914 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.007s
+2025-07-11 11:28:08,821 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:28:08,821 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:28:08,822 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:28:08,822 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:28:08,822 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:28:09,028 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.206s
+2025-07-11 11:29:20,002 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:29:20,002 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:29:20,002 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:29:20,003 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:29:20,003 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:29:20,161 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.158s
+2025-07-11 11:30:20,831 - maas_gateway - INFO - Request body length: 417
+2025-07-11 11:30:20,831 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false,"tools":[{"type":"function","function":{"name":"get_weather","description":"Get weather of an location, the user shoud supply a location first","parameters":{"type":"object","properties":{"location":{"type":"string","description":"The city and state, e.g. San Francisco, CA"}},"required":["location"]}}}]}
+2025-07-11 11:30:20,832 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:30:20,833 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:30:20,833 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '417', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:30:20,998 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.166s
+2025-07-11 11:30:58,478 - maas_gateway - INFO - Request body length: 112
+2025-07-11 11:30:58,478 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false}
+2025-07-11 11:30:58,479 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:30:58,479 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:30:58,480 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '112', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:30:58,647 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 400 - 耗时: 0.169s
+2025-07-11 11:32:26,749 - maas_gateway - INFO - Request body length: 112
+2025-07-11 11:32:26,750 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false}
+2025-07-11 11:32:26,750 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:32:26,751 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:32:26,751 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '112', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '0', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:32:26,863 - maas_gateway - ERROR - Unhandled exception in dispatch: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1113, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1146, in _create_connection_transport
+    await waiter
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 578, in _on_handshake_complete
+    raise handshake_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 560, in _do_handshake
+    self._sslobj.do_handshake()
+  File "/opt/anaconda3/envs/py11/lib/python3.11/ssl.py", line 979, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 136, in handle_block_request
+    async with session.post(svc_addr, json=request_data, headers=headers) as response:
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1406, in _create_direct_connection
+    raise last_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1375, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1124, in _wrap_create_connection
+    raise ClientConnectorCertificateError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorCertificateError: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+2025-07-11 11:32:26,872 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.122s
+2025-07-11 11:32:27,367 - maas_gateway - INFO - Request body length: 112
+2025-07-11 11:32:27,368 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false}
+2025-07-11 11:32:27,368 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:32:27,369 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:32:27,369 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '112', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '1', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:32:27,461 - maas_gateway - ERROR - Unhandled exception in dispatch: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1113, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1146, in _create_connection_transport
+    await waiter
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 578, in _on_handshake_complete
+    raise handshake_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 560, in _do_handshake
+    self._sslobj.do_handshake()
+  File "/opt/anaconda3/envs/py11/lib/python3.11/ssl.py", line 979, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 136, in handle_block_request
+    async with session.post(svc_addr, json=request_data, headers=headers) as response:
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1406, in _create_direct_connection
+    raise last_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1375, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1124, in _wrap_create_connection
+    raise ClientConnectorCertificateError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorCertificateError: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+2025-07-11 11:32:27,463 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.095s
+2025-07-11 11:32:28,279 - maas_gateway - INFO - Request body length: 112
+2025-07-11 11:32:28,279 - maas_gateway - INFO - Request body (first 500 chars): {"messages":[{"role":"user","content":"How's the weather in Hangzhou?"}],"model":"deepseek-chat","stream":false}
+2025-07-11 11:32:28,280 - maas_gateway - INFO - 收到请求: POST /v1/chat/completions
+2025-07-11 11:32:28,281 - maas_gateway - INFO - handle request: /v1/chat/completions
+2025-07-11 11:32:28,281 - maas_gateway - INFO - request headers: {'host': 'localhost:8000', 'user-agent': 'OpenAI/Python 1.75.0', 'content-length': '112', 'accept': 'application/json', 'accept-encoding': 'gzip, deflate, zstd', 'authorization': 'Bearer abc123', 'content-type': 'application/json', 'x-stainless-arch': 'arm64', 'x-stainless-async': 'false', 'x-stainless-lang': 'python', 'x-stainless-os': 'MacOS', 'x-stainless-package-version': '1.75.0', 'x-stainless-read-timeout': '600', 'x-stainless-retry-count': '2', 'x-stainless-runtime': 'CPython', 'x-stainless-runtime-version': '3.11.12'}
+2025-07-11 11:32:28,368 - maas_gateway - ERROR - Unhandled exception in dispatch: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+Traceback (most recent call last):
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1122, in _wrap_create_connection
+    return await self._loop.create_connection(*args, **kwargs, sock=sock)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1113, in create_connection
+    transport, protocol = await self._create_connection_transport(
+                          ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/base_events.py", line 1146, in _create_connection_transport
+    await waiter
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 578, in _on_handshake_complete
+    raise handshake_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/asyncio/sslproto.py", line 560, in _do_handshake
+    self._sslobj.do_handshake()
+  File "/opt/anaconda3/envs/py11/lib/python3.11/ssl.py", line 979, in do_handshake
+    self._sslobj.do_handshake()
+ssl.SSLCertVerificationError: [SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)
+
+The above exception was the direct cause of the following exception:
+
+Traceback (most recent call last):
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 72, in dispatch
+    return await handle_request(request)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 117, in handle_request
+    return await handle_block_request(uri, headers, request_data, model_config)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/Users/gaozedong/my_workspace/maas-gateway/main.py", line 136, in handle_block_request
+    async with session.post(svc_addr, json=request_data, headers=headers) as response:
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 1425, in __aenter__
+    self._resp: _RetType = await self._coro
+                           ^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/client.py", line 703, in _request
+    conn = await self._connector.connect(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 548, in connect
+    proto = await self._create_connection(req, traces, timeout)
+            ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1056, in _create_connection
+    _, proto = await self._create_direct_connection(req, traces, timeout)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1406, in _create_direct_connection
+    raise last_exc
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1375, in _create_direct_connection
+    transp, proto = await self._wrap_create_connection(
+                    ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "/opt/anaconda3/envs/py11/lib/python3.11/site-packages/aiohttp/connector.py", line 1124, in _wrap_create_connection
+    raise ClientConnectorCertificateError(req.connection_key, exc) from exc
+aiohttp.client_exceptions.ClientConnectorCertificateError: Cannot connect to host chat.cq.uban360.com:21008 ssl:True [SSLCertVerificationError: (1, "[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: Hostname mismatch, certificate is not valid for 'chat.cq.uban360.com'. (_ssl.c:1016)")]
+2025-07-11 11:32:28,372 - maas_gateway - INFO - 请求完成: POST /v1/chat/completions - 状态码: 500 - 耗时: 0.092s
